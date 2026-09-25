@@ -1,0 +1,11 @@
+{
+  "n_questions_total": 41,
+  "n_answerable": 38,
+  "n_unanswerable": 3,
+  "retrieval_recall@1": 0.974,
+  "retrieval_recall@3": 0.974,
+  "retrieval_mrr": 0.974,
+  "generation_accuracy_oracle_context": 0.868,
+  "generation_accuracy_end_to_end": 0.816,
+  "unanswerable_correctly_abstained": "2/3"
+}
